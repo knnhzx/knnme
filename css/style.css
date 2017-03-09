@@ -3,8 +3,8 @@
 
 
 /*
- * Author: Benny Ou
- * Created: 14/11/2016
+ * Author: Kenny Hee
+ * Created: 09/03/2017
  */
 
 
@@ -413,7 +413,7 @@ h1 span{
   position:relative;
   margin:0 auto;
   border:2px solid #f0f0f0;
-  background: url(../img/icons/artlogo.png) white no-repeat center center;
+  background: url(../img/icons/graphiclogo.png) white no-repeat center center;
   -moz-border-radius:100px;
   -webkit-border-radius:100px;
   border-radius: 100px;
@@ -444,7 +444,7 @@ h1 span{
   position:relative;
   margin:0 auto;
   border:2px solid #f0f0f0;
-  background: url(../img/icons/idlogo.png) white no-repeat center center;
+  background: url(../img/icons/artlogo.png) white no-repeat center center;
   -moz-border-radius:100px;
   -webkit-border-radius:100px;
   border-radius: 100px;
@@ -475,7 +475,7 @@ h1 span{
   position:relative;
   margin:0 auto;
   border:2px solid #f0f0f0;
-  background: url(../img/icons/graphiclogo.png) white no-repeat center center;
+  background: url(../img/icons/idlogo.png) white no-repeat center center;
   -moz-border-radius:100px;
   -webkit-border-radius:100px;
   border-radius: 100px;
@@ -868,7 +868,7 @@ input.submit{
 
 .button-group {
   margin-bottom: 20px;
-  padding-left: 27%;
+  padding-left: 15%;
 }
 
 .button-group:after {
@@ -889,6 +889,7 @@ input.submit{
 /* clear fix */
 .grid{
   margin-bottom: 150px;
+  margin-left: 25px;
 }
 .grid:after {
   content: '';
